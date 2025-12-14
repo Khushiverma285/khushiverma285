@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Here is a **GitHub Profile README – “ABOUT ME” extract** written **section-wise**, tailored for **GPRM**, and **fully derived from your resume PDF**. You can directly paste this into your GitHub README and customize emojis if needed.<br><br>---<br><br>## 👩‍💻 About Me<br><br>I am a passionate **Data Scientist & Python Developer** with a strong foundation in **data analytics, machine learning, backend APIs, and cloud computing**. Currently pursuing my **Master of Computer Applications (MCA)**, I enjoy building **end-to-end, data-driven solutions**—from data collection and ETL pipelines to insightful dashboards and predictive models. I am driven by curiosity, continuous learning, and creating real-world impact through data. <br><br>---<br><br>## 🎓 Education<br><br>* **Master of Computer Applications (MCA)** – Amity University Online *(Expected 2027)*<br>* **Bachelor of Computer Applications (BCA) – Software Engineering**<br>  Guru Gobind Singh Indraprastha University (GGSIPU) *(2022 – 2025)* <br><br>---<br><br>## 🛠️ Technical Skills<br><br>### Programming & Data<br><br>* **Languages:** Python, SQL<br>* **Data Analysis & ML:** pandas, NumPy, Matplotlib, Seaborn, scikit-learn<br><br>### Backend & Cloud<br><br>* **APIs & Backend:** FastAPI, RESTful APIs<br>* **Cloud & DevOps:** AWS (EC2, S3, Lambda, IAM), Cloud Architecture<br><br>### Databases & Visualization<br><br>* **Databases:** MySQL, PostgreSQL, SQLite<br>* **Visualization:** Power BI, Tableau, Plotly<br><br>### Tools<br><br>* Git, Docker, Jupyter Notebook, VS Code, ETL Pipelines <br><br>---<br><br>## 💼 Experience<br><br>### **Data Analyst Intern – IBM CSRBOX** *(June 2024 – August 2024)*<br><br>* Analyzed large datasets using Python to deliver **30% improvement in data-driven decisions**<br>* Built **interactive Power BI dashboards** for real-time KPI tracking<br>* Cleaned and validated **100K+ records** ensuring high data quality<br>* Delivered SQL-based analytical reports for strategic planning<br>* Automated workflows using Python, **reducing manual effort by 40%** <br><br>---<br><br>## 🚀 Projects<br><br>### **Air Quality & Climate Change Analytics Dashboard**<br><br>* Built an **end-to-end ETL pipeline** processing **500K+ real-time data points**<br>* Developed interactive Plotly visualizations integrated with **FastAPI**<br>* Performed statistical analysis to uncover pollution and climate correlations <br><br>### **Heart Disease Prediction Model**<br><br>* Created ML models (Random Forest, Logistic Regression) with **85% accuracy**<br>* Applied feature engineering, correlation analysis, and model evaluation<br>* Optimized performance using **ROC-AUC and cross-validation** <br><br>### **YouTube Data Analysis Platform**<br><br>* Analyzed engagement metrics for **10K+ videos** using YouTube API<br>* Designed a structured data pipeline and database storage<br>* Built Power BI dashboards for content and audience insights <br><br>---<br><br>## 🏆 Achievements<br><br>* Delivered **3 production-ready analytics projects** end-to-end<br>* Improved data processing efficiency by **40% through automation**<br>* Gained hands-on expertise in **AWS cloud services** <br><br>---<br><br>## ☁️ Certifications<br><br>* **AWS Cloud Practitioner Essentials – Amazon Web Services**<br>* Training in **Data Analysis, Machine Learning, and SQL for Data Science** <br><br>---<br><br>If you want, I can also:<br><br>* Convert this into **auto-generated GPRM format**<br>* Make a **shorter “One-liner About Me”**<br>* Add **GitHub stats, badges, and tech icons**<br>* Tailor it for **Data Scientist / Data Engineer / AI Engineer** profiles<br>
 
-<!--
-**Khushiverma285/khushiverma285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khushi-verma-0a63622a5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushirojal285@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=khushiverma285&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=khushiverma285&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushiverma285&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=khushiverma285&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
